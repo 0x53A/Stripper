@@ -1,0 +1,8 @@
+﻿xunit
+xunit.runner.visualstudio
+
+microsoft.codeanalysis.csharp.workspaces
+Microsoft.CodeAnalysis.CSharp
+
+Mono.Cecil
+CompareObjects
